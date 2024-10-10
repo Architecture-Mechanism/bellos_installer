@@ -1,10 +1,10 @@
 # Bellos Installer
-
 Install Bellos Scripting Languages into your Operating System 
 
+## Install pip with sudo or bell
+- `sudo pip install bellos_installer`
 
 ## Usage of Bellos Installer
-
 - **To use this script, you would run it with sudo privileges and specify an action:**
   - To install a specific version: sudo bellos_installer install --version <branch_name>
   - To list available versions: sudo bellos_installer list
@@ -16,10 +16,10 @@ Install Bellos Scripting Languages into your Operating System
 - https://pypi.org/project/bellos_installer
 
 ### Installation
-- `$ pip install bellos_installer`
+- `pip install bellos_installer`
 
 ### Upgrade (if not upgraded)
-- `$ pip install --upgrade bellos_installer`
+- `pip install --upgrade bellos_installer`
 
 ```
 Name: bellos_installer
