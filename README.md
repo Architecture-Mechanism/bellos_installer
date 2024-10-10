@@ -23,7 +23,6 @@ Install Bellos Scripting Languages into your Operating System
 
 ```
 Name: bellos_installer
-Version: 0.1.0
 Summary: Install Bellos Scripting Languages into your Operating System 
 Home-page: github.com/Architecture-Mechanism/bellos_installer
 Author: Ronaldson Bellande
