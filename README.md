@@ -28,8 +28,6 @@ Home-page: github.com/Architecture-Mechanism/bellos_installer
 Author: Ronaldson Bellande
 Author-email: ronaldsonbellande@gmail.com
 License: GNU General Public License v3.0
-Requires: 
-Required-by:
 ```
 
 ## License
