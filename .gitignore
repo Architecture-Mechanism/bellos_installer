@@ -1,4 +1,6 @@
 publish.sh
+build
+MANIFEST.in
 tests
 setup.py
 dist
