@@ -5,6 +5,9 @@ Install Bellos Scripting Languages into your Operating System
 - `sudo pip install bellos_installer`
 - `bell pip install bellos_installer`
 
+# Bellos Scripting Language
+- https://github.com/Architecture-Mechanism/bellos
+
 ## Usage of Bellos Installer
 - **To use this script, you would run it with sudo privileges and specify an action:**
   - To install a specific version: sudo bellos_installer install --version <branch_name>
